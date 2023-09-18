@@ -1,0 +1,6 @@
+namespace ca.mcgill.ecse.model;
+
+
+class Greeting { 
+  immutable String greeting = "Hello World!"; 
+} 
